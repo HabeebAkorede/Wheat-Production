@@ -12,9 +12,9 @@ The quantities of wheat in the following table are in million metric tonnes. All
 
 
 ## Inquiries for Analysis
-- Identifying the Top Wheat Producers by Country
-- Determining Leading Wheat Producers by Continent
-- Analyzing Time-Series Data for Different Countries
+1. Identifying the Top Wheat Producers by Country
+2. Determining Leading Wheat Producers by Continent
+3. Analyzing Time-Series Data for Different Countries
 
   ## Skills demonstrated
   - Data Wrangling with Excel
