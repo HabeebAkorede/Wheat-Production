@@ -23,10 +23,10 @@ The quantities of wheat in the following table are in million metric tonnes. All
   - Data visualization with Tableau
 
 ## Data Cleaning
-   Though the dataset thankfully didn't contain any duplicates, I did encounter some data inconsistencies and swiftly resolved them using the 'Find and Replace' function. To better organize the data, I effectively utilized filters to isolate specific subsets for analysis. 
+   After checking for duplicates I observed that the dataset contains none, Although I encountered some data inconsistencies and swiftly resolved them using the 'Find and Replace' function. To better organize the data, I effectively utilized filters to isolate specific subsets for analysis. 
    
    In an effort to streamline the dataset, I identified and removed an extraneous column that was found to be irrelevant. For added context, I integrated a 'Continent' column using the 'VLOOKUP' function, drawing from a separate dataset that listed countries alongside their respective continents. This enrichment enhanced the analysis by providing valuable geographic insights. 
 
    Cleaned data            |     Raw data
    :----------------------:|:---------------:
-   ![](WheatProBefore.jpg) | ![](WheatProdAfter.jpg)
+   ![](WheatProdAfter.png)  | ![](WheatProdBefore.png)
