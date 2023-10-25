@@ -29,4 +29,4 @@ The quantities of wheat in the following table are in million metric tonnes. All
 
    Cleaned data            |     Raw data
    :----------------------:|:---------------:
-   ![](Wheat prod Before) | ![](Wheat prod After)
+   ![](Wheat prod Before.jpg) | ![](Wheat prod After.jpg)
