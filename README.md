@@ -15,12 +15,16 @@ The quantities of wheat in the following table are in million metric tonnes. All
 1. Identifying the Top Wheat Producers by Country
 2. Determining Leading Wheat Producers by Continent
 3. Analyzing Time-Series Data for Different Countries
+4. Total Wheat Produced per Year
+5. Year-over- year Production Analysis
 
 ## Skills demonstrated
   - Data Wrangling with Excel
   - Lookup functions
   - Filters
-  - Data visualization with Tableau
+  - Data visualization with Power BI
+  - Data Modelling
+  - DAX
 
 ## Data Cleaning
    After checking for duplicates I observed that the dataset contains none, Although I encountered some data inconsistencies and swiftly resolved them using the 'Find and Replace' function. To better organize the data, I effectively utilized filters to isolate specific subsets for analysis. 
