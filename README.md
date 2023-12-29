@@ -38,5 +38,7 @@ The quantities of wheat in the following table are in million metric tonnes. All
 ## Data Visualization
     Click [here]  to interact with the dashoad
 
+    ![](wheat dashboard.jpg)
+
 
    
