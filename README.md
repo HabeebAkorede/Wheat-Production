@@ -27,7 +27,7 @@ The quantities of wheat in the following table are in million metric tonnes. All
   - DAX
 
 ## Data Cleaning
-   After checking for duplicates, data inconsistencies were resolved them using the 'Find and Replace' function. I also effectively used filters to isolate specific subsets for analysis. 
+   After checking for duplicates, data inconsistencies were resolved using the 'Find and Replace' function. I also effectively used filters to isolate specific subsets for analysis. 
    
    In an effort to streamline the dataset, I identified and removed irrelevant columns. For added context, I integrated a 'Continent' column using the 'VLOOKUP' function. This enrichment enhanced the analysis by providing valuable geographic insights. 
 
