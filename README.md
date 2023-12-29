@@ -36,9 +36,6 @@ The quantities of wheat in the following table are in million metric tonnes. All
    ![](WheatProdAfter.png)  | ![](WheatProdBefore.png)
 
 ## Data Visualization
-    Click [here]  to interact with the dashoad
+    The Visualization was done with Power BI Desktop.  Click [here]  to interact with the dashoad   
+![](wheatdashboard1.png)
 
-    ![](wheat dashboard.jpg)
-
-
-   
