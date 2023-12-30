@@ -4,7 +4,7 @@
 ---
 
 ## Background
-This project stems from my recent firsthand experience in mills where wheat is transformed into flour and various other products. This encounter ignited my curiosity, prompting me to embark on an exhilarating journey to delve into the global scale of wheat cultivation and production. Through this exploration, I aim to uncover insightful, data-driven revelations about the wheat industry.
+This project stems from my recent firsthand experience in mills where wheat is transformed into flour and various other products. This fueled my curiosity, prompting me to embark on a journey to delve into the global scale of wheat cultivation and production. Through this exploration, I aim to uncover insightful, data-driven revelations about wheat kernel.
 
 
 ## About dataset
@@ -16,7 +16,7 @@ The quantities of wheat in the following table are in million metric tonnes. All
 2. Determining Leading Wheat Producers by Continent
 3. Analyzing Time-Series Data for Different Countries
 4. Total Wheat Produced per Year
-5. Year-over- year Production Analysis
+5. Year-over-year Production Analysis
 
 ## Skills demonstrated
   - Data Wrangling with Excel
