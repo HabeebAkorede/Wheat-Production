@@ -38,5 +38,5 @@ The quantities of wheat in the following table are in million metric tonnes. All
 ## Data Visualization
   The Visualization was done with Power BI Desktop.
     Click [here](https://app.powerbi.com/view?r=eyJrIjoiOThmZmZmNjMtNzU4Yi00MjkyLThjYjItZDdjOWM2NzMwMTdkIiwidCI6IjI5ZWRjNWZjLTE2NGYtNGJmZC1hZTIxLTllY2M0MDc1ZDZmOSJ9)  to interact with the dashoad   
-![](NeWorldWheatReport)
+![](NeWorldWheatReport.JPG)
 
